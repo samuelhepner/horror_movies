@@ -1,2 +1,2 @@
 # horror_movies
-Personal project to see if Horror movies are rated lower than other genres
+Personal project to see if horror movies are rated lower than other genres
