@@ -1,2 +1,2 @@
 # horror_movies
-The branch for WIP
+This repo is a WIP
