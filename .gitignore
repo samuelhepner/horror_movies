@@ -1,8 +1,7 @@
 # Datasets
-imdb_movies
-imdb_ratings
-IMDb movies.csv.zip
-IMDb ratings.csv.zip
+imdb_movies/
+imdb_ratings/
+
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
