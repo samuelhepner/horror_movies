@@ -78,6 +78,10 @@ target/
 .ipynb_checkpoints
 imdb_movies/
 imdb_ratings/
+title_akas.tsv
+title_basics.tsv
+title_crew.tsv
+title_ratings.tsv
 
 # IPython
 profile_default/
