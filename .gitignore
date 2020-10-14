@@ -82,6 +82,8 @@ title_akas.tsv
 title_basics.tsv
 title_crew.tsv
 title_ratings.tsv
+imdb_dataset.csv
+imdb_datasets.tsv
 
 # IPython
 profile_default/
